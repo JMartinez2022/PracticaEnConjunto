@@ -1,6 +1,6 @@
 /*
  * Program.java        20.10.2020
- *
+ * Hola me llamo Yaroslav Klymko
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
